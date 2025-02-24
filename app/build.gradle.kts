@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.ugb.miprimeraaplicacion"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.ugb.miprimeraaplicacion"
+=======
+    namespace = "com.ugb.primeraaplicacion"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.ugb.primeraaplicacion"
+>>>>>>> f067658 (Creación de la calculadora de suma)
         minSdk = 22
         targetSdk = 35
         versionCode = 1

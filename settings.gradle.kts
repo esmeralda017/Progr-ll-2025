@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "miPrimeraAplicacion"
+=======
+rootProject.name = "primeraAplicacion"
+>>>>>>> f067658 (Creación de la calculadora de suma)
 include(":app")
  

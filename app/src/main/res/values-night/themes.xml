@@ -1,6 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.MiPrimeraAplicacion" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.PrimeraAplicacion" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> f067658 (Creación de la calculadora de suma)
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>

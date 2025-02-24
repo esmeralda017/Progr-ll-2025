@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.MiPrimeraAplicacion" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.PrimeraAplicacion" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> f067658 (Creación de la calculadora de suma)
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.MiPrimeraAplicacion" parent="Base.Theme.MiPrimeraAplicacion" />
+=======
+    <style name="Theme.PrimeraAplicacion" parent="Base.Theme.PrimeraAplicacion" />
+>>>>>>> f067658 (Creación de la calculadora de suma)
 </resources>
